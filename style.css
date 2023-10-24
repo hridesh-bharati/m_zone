@@ -1,73 +1,73 @@
 .FirstTopNav,
 header {
-    background: #131921
+    background: #131921;
 }
 
 *,
 .MyCard {
     padding: 0;
-    margin: 0
+    margin: 0;
 }
 
 a,
 header a:hover {
-    text-decoration: none
+    text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline
+    text-decoration: underline;
 }
 
 body {
-    background: #ececec
+    background: #ececec;
 }
 
 .SecondTopNav {
-    background: #232f3e
+    background: #232f3e;
 }
 
 .BackToTopBtn {
-    background: #37475a
+    background: #37475a;
 }
 
 .DarkRed {
     color: #fff;
-    background: #cc0c39
+    background: #cc0c39;
 }
 
 .Myplaceholder {
     width: 80%;
     border: none;
-    outline: 0
+    outline: 0;
 }
 
 header {
-    font-size: .9rem !important
+    font-size: .9rem !important:
 }
 
 h4 {
     padding: 1rem 0 !important;
-    font-size: 21px !important
+    font-size: 21px !important;
 }
 
 .TopHeaderNavLeft {
     font-size: .8rem;
-    color: #fff
+    color: #fff;
 }
 
 .MainCardContainer {
     position: relative;
-    bottom: 40vh
+    bottom: 40vh;
 }
 
 .MyWidth {
-    width: 20px
+    width: 20px;
 }
 
 .MyCard {
     width: 100%;
     background: #00f;
-    height: 200px
+    height: 200px;
 }
 
 .MyFlex,
@@ -75,21 +75,21 @@ h4 {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column
+    flex-direction: column;
 }
 
 .MyFlex .smallPicSize img {
-    width: 100px
+    width: 100px;
 }
 
 .MyFlex small,
 .SmallFont ul li {
-    font-size: .8rem
+    font-size: .8rem;
 }
 
 .ShopCard h4,
 .ShopCard2 h4 {
-    padding: 1rem 0
+    padding: 1rem 0;
 }
 
 .ShopCard .row .whiteBg,
@@ -97,21 +97,21 @@ h4 {
 .ShopCard4 .row .whiteBg,
 .ShopCard5 .row .whiteBg,
 .ShopCard6 .row .whiteBg {
-    background: #fff !important
+    background: #fff !important;
 }
 
 .MyLinks {
     width: 100%;
     text-align: left;
-    font-size: 1rem
+    font-size: 1rem;
 }
 
 .ShopCard3 {
-    background-color: #fff
+    background-color: #fff;
 }
 
 .ShopCard3 .col-12 {
-    overflow-x: scroll !important
+    overflow-x: scroll !important;
 }
 
 .ListProducts .OverParaText {
@@ -119,45 +119,45 @@ h4 {
     width: 80%;
     overflow: hidden;
     text-overflow: ellipsis;
-    font-weight: 600
+    font-weight: 600;
 }
 
 .ListProducts b {
-    color: #cc0c39
+    color: #cc0c39;
 }
 
 .SecondTopNav ul li {
     list-style: none;
-    padding: 0 5px
+    padding: 0 5px;
 }
 
 .Mysection .row {
-    background-color: #131921
+    background-color: #131921;
 }
 
 .Mysection .row .col-md-3 {
-    padding: 1rem 0 0
+    padding: 1rem 0 0;
 }
 
 .ListStType li a {
-    padding: 10px
+    padding: 10px;
 }
 
 .ListStType li {
-    list-style-type: none
+    list-style-type: none;
 }
 
 .Myborder {
-    border: 1.5px solid transparent
+    border: 1.5px solid transparent;
 }
 
 .Myborder:hover {
-    border: 1.5px solid #fff
+    border: 1.5px solid #fff;
 }
 
 .MyBtn {
     display: flex;
-    align-items: center
+    align-items: center;
 }
 
 .ShopCard2,
@@ -165,33 +165,33 @@ h4 {
 .ShopCard5,
 .ShopCard6 {
     margin: 1rem 0;
-    background: #ececec
+    background: #ececec;
 }
 
 .MainCardContainer .ShopCard {
-    background: 0 0 !important
+    background: 0 0 !important;
 }
 
 @media screen and (max-width:768px) {
     .MainCardContainer {
         position: relative;
-        top: -10vh
+        top: -10vh;
     }
     .SecondTopNav .col-md-3,
     .SecondTopNav .col-md-8 {
-        display: none !important
+        display: none !important;
     }
     .MyLinks {
-        text-align: center
+        text-align: center;
     }
 }
 
 .MainCardContainer p {
     padding: 0 !important;
-    margin: 0 !important
+    margin: 0 !important;
 }
 
 footer {
     position: relative !important;
-    bottom: 0 !important
+    bottom: 0 !important;
 }
